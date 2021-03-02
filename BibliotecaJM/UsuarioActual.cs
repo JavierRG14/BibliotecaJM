@@ -10,5 +10,7 @@ namespace BibliotecaJM
     {
         public string Nombre { get; set; }
         public string TipoUsuario { get; set; }
+
+        //Modificado
     }
 }
